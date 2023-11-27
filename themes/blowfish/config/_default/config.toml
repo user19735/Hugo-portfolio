@@ -1,0 +1,23 @@
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0"
+    max = "0.120.4"
+
+baseURL = "/"
+languageCode = "en"
+ [author]
+   name = "Tim Birnkraut"
+   image = "img/profilepic.jpeg"
+   headline = "Hi I am Tim"
+   bio = "I am 18 years old and live in Münster, Germany"
+
+[firebase]
+  apiKey = "AIzaSyCnuLSGjtsJQbkGiOYgleX7RGLW3tp2KXA"
+  authDomain = "portfolio-a0194.firebaseapp.com"
+  projectId = "portfolio-a0194"
+  storageBucket = "portfolio-a0194.appspot.com"
+  messagingSenderId = "975129834409"
+  appId = "1:975129834409:web:9aaf6415e72daf9c0acab8"
+  measurementId = "G-FV3JJ2XKWQ"
+  
