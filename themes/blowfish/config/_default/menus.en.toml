@@ -12,7 +12,7 @@
 [[main]]
   name = "About Me"
   PageRef = "aboutme"
-  weight 50
+  weight = 50
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
