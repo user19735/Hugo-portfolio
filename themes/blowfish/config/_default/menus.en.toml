@@ -11,7 +11,7 @@
 # ordered by weight from lowest to highest.
 [[main]]
   name = "About Me"
-  PageRef = "aboutme"
+  pageRef = "aboutme"
   weight = 50
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -24,3 +24,10 @@
    pageRef = "imprint"
 
    weight = 20
+
+ [[footer]]
+  name  = "Development"
+  
+  pageRef = "dev"
+  
+  weight = 30
