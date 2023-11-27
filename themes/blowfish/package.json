@@ -3,6 +3,7 @@
   "version": "2.45.0",
   "description": "Blowfish theme for Hugo",
   "scripts": {
+    "rimraf": "./node_modules/rimraf/bin.js",
     "fullinstall": "npm run preinstall && npm install && npm run postinstall",
     "preinstall": "rimraf assets/vendor",
     "postinstall": "vendor-copy",
