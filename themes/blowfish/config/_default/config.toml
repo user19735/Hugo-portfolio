@@ -10,13 +10,3 @@ languageCode = "de"
    name = "Tim Birnkraut"
    image = "img/profilepic.jpeg"
    headline = "Hi, my name is Tim"
-
-[firebase]
-  apiKey = "AIzaSyCnuLSGjtsJQbkGiOYgleX7RGLW3tp2KXA"
-  authDomain = "portfolio-a0194.firebaseapp.com"
-  projectId = "portfolio-a0194"
-  storageBucket = "portfolio-a0194.appspot.com"
-  messagingSenderId = "975129834409"
-  appId = "1:975129834409:web:9aaf6415e72daf9c0acab8"
-  measurementId = "G-FV3JJ2XKWQ"
-  
