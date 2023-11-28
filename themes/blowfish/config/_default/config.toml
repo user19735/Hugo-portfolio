@@ -5,7 +5,7 @@
     max = "0.120.4"
 
 baseURL = "/"
-languageCode = "en"
+languageCode = "de"
  [author]
    name = "Tim Birnkraut"
    image = "img/profilepic.jpeg"
