@@ -1,11 +1,11 @@
-languageCode = "en"
-languageName = "English"
-weight = 2
+languageCode = "de"
+languageName = "Deutsch"
+weight = 1
 title = "Tim's Portfolio"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "DE"
+  isoCode = "de"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/profilepic"
@@ -16,7 +16,7 @@ title = "Tim's Portfolio"
  [author]
    name = "Tim Birnkraut"
    image = "img/profilepic.jpeg"
-   headline = "Hi I am Tim"
+   headline = "Hi Ich bin Tim"
    links = [
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },
