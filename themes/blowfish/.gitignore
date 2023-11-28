@@ -1,7 +1,7 @@
 # Hugo and Blowfishd
 resources/
 exampleSite/resources/
-
+public/
 # Binaries for programs and plugins
 *.exe
 *.exe~
