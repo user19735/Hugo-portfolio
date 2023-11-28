@@ -16,7 +16,7 @@ title = "Tim's Portfolio"
  [author]
    name = "Tim Birnkraut"
    image = "img/profilepic.jpeg"
-   headline = "Hi I am Tim"
+   headline = "Hi, my name is Tim"
    links = [
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },

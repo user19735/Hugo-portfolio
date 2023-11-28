@@ -9,8 +9,7 @@ languageCode = "de"
  [author]
    name = "Tim Birnkraut"
    image = "img/profilepic.jpeg"
-   headline = "Hi I am Tim"
-   bio = "I am 18 years old and live in Münster, Germany"
+   headline = "Hi, my name is Tim"
 
 [firebase]
   apiKey = "AIzaSyCnuLSGjtsJQbkGiOYgleX7RGLW3tp2KXA"
